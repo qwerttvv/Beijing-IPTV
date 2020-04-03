@@ -14,7 +14,7 @@
 
 CDN加速（推荐）
 
-[https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u")
+[https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u")
 
 #### 节目列表来源
 1. 电视盒子抓包官方列表
