@@ -9,11 +9,11 @@
 #### 列表永久地址
 
 源
-
+[https://raw.github.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.github.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.github.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 
-CDN加速（推荐）
-
+CDN镜像
+[https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u")
 [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u")
 
 #### 节目列表来源
@@ -23,7 +23,7 @@ CDN加速（推荐）
 4. 交叉[参考2](https://github.com/islercn/BeiJing-Unicom-IPTV-List "参考2")
 
 #### 其他说明
-1. 增加非北京联通IPTV来源的两个频道，分别为CCTV4K超清和CCTV13高清，实测一个多月，这两个台都很稳。这两台会单独标记【非官方】，以防万一，官方非高清CCTV13保留
+1. 增加非北京联通IPTV来源的频道，会单独标记【非官方】，其中CCTV4K为超清HDR频道，支持HDR的播放设备可以有不错的体验
 2. 有些什么测试台一类的，全部删除了
 3. 有一些类似上网课一类的台，我都删了
 4. 说实话，列表里地方高清台再往后的那些台，平时基本不看…不能说基本吧，应该是根本不看……
