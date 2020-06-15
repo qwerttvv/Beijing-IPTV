@@ -20,6 +20,13 @@ CDN镜像
 
 [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGxqPl](http://t.cn/A6LGxqPl "http://t.cn/A6LGxqPl")
 
+[https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGQ42Z](http://t.cn/A6LGQ42Z "http://t.cn/A6LGQ42Z")
+
+[https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGQXsO](http://t.cn/A6LGQXsO "http://t.cn/A6LGQXsO")
+
+
+
+
 #### 节目列表来源
 1. 电视盒子抓包官方列表
 2. 组播地址[扫描](https://github.com/sdhzdmzzl/iptv_channel_scanner_windows "扫描")
