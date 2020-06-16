@@ -67,7 +67,7 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院",CHC家庭影院[高清][非官方]
+#EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
