@@ -49,8 +49,9 @@ http://192.168.123.1:23234/rtp/239.3.1.152:8120
 http://192.168.123.1:23234/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13[高清][非官方]
 http://120.241.133.166/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-#EXTINF:-1 tvg-name="CCTV13",CCTV-13
-http://192.168.123.1:23234/rtp/239.3.1.13:8048
+# http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
+# #EXTINF:-1 tvg-name="CCTV13",CCTV-13
+# http://192.168.123.1:23234/rtp/239.3.1.13:8048
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15[高清]
@@ -59,6 +60,9 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV-4K[超清HDR][非官方]
 http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+# http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+# http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+# http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
@@ -85,8 +89,10 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 http://192.168.123.1:23234/rtp/239.3.1.84:4120
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
+# http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 http://112.50.243.9/PLTV/88888888/224/3221225901/1.m3u8
+# http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-name="上海纪实",纪实人文[高清]
 http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
