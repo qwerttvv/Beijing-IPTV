@@ -79,13 +79,23 @@ http://192.168.123.1:23234/rtp/239.3.1.236:2000
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",黑莓电影[高清][非官方]
+http://221.179.217.9/PLTV/88888888/224/3221226292/1.m3u8
+# http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
+# http://39.135.135.30/wh7f454c46tw727190017_-1494192415/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+# http://39.134.134.32/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+# http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+# http://ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+# http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",NewTV超级电影[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221226369/1.m3u8
+# http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
 # http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=4
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 # http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",NewTV动作电影[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225915/1.m3u8
+# http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
 # http://221.179.217.9/PLTV/88888888/224/3221226288/1.m3u8
 # http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=4
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
@@ -113,8 +123,7 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-name="该频道节目单尚无",光影
 http://192.168.123.1:23234/rtp/239.3.1.84:4120
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-http://221.179.217.9/PLTV/88888888/224/3221225942/1.m3u8
-# http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
+http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
 # http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.75/PLTV/88888888/224/3221225942/1.m3u8
