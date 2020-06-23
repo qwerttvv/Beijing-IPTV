@@ -71,9 +71,9 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 # http://39.134.176.163/PLTV/88888888/224/3221226758/index.m3u8
 # http://117.148.187.99/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",BesTV4K[超清][非官方]
-http://117.148.187.99/PLTV/88888888/224/3221226718/index.m3u8
+http://39.134.176.163/PLTV/88888888/224/3221226718/index.m3u8
+# http://117.148.187.99/PLTV/88888888/224/3221226718/index.m3u8
 # http://112.17.40.199/PLTV/88888888/224/3221226718/index.m3u8
-# http://39.134.176.163/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
@@ -81,10 +81,10 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",黑莓电影[高清][非官方]
-http://221.179.217.9/PLTV/88888888/224/3221226292/1.m3u8
+http://39.134.134.32/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+# http://221.179.217.9/PLTV/88888888/224/3221226292/1.m3u8
 # http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
 # http://39.135.135.30/wh7f454c46tw727190017_-1494192415/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-# http://39.134.134.32/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 # http://ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -111,6 +111,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 # http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 # http://iptv.pdsu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+# http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
 http://192.168.123.1:23234/rtp/239.3.1.92:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",喜剧影院
