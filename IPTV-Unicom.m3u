@@ -75,6 +75,8 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 http://221.179.217.9/PLTV/88888888/224/3221226399/1.m3u8
 # http://39.134.134.32/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
 # http://111.13.42.46/PLTV/88888888/224/3221226399/1.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",4K电影[超清HDR][非官方]
+http://122.97.211.219:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11684&Fsv_otype=0&Provider_id=&Pcontent_id=
 # #EXTINF:-1 tvg-name="该频道节目单尚无",BesTV4K[超清][非官方]
 # http://39.134.176.163/PLTV/88888888/224/3221226718/index.m3u8
 # http://117.148.187.99/PLTV/88888888/224/3221226718/index.m3u8
@@ -93,9 +95,11 @@ http://221.179.217.9/PLTV/88888888/224/3221225927/1.m3u8
 # http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 # http://ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+# http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="该频道节目单尚无",NewTV爱情喜剧[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225913/1.m3u8
 # http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
+# http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="该频道节目单尚无",NewTV明星大片[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225929/1.m3u8
 # http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
