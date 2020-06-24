@@ -96,13 +96,6 @@ http://221.179.217.9/PLTV/88888888/224/3221225927/1.m3u8
 # http://ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
 # http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 # http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="该频道节目单尚无",NewTV爱情喜剧[高清][非官方]
-http://221.179.217.9/PLTV/88888888/224/3221225913/1.m3u8
-# http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
-# http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="该频道节目单尚无",NewTV明星大片[高清][非官方]
-http://221.179.217.9/PLTV/88888888/224/3221225929/1.m3u8
-# http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",NewTV动作电影[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225915/1.m3u8
 # http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
@@ -120,9 +113,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 # http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 # http://iptv.pdsu.edu.cn/hls/chchd.m3u8
-# #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
-# http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-# http://39.134.52.169/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
 http://192.168.123.1:23234/rtp/239.3.1.92:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",喜剧影院
