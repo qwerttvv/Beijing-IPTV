@@ -51,6 +51,10 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://101.227.140.13/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://101.227.140.14/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+# http://118.25.29.15/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+# http://118.25.29.24/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+# http://118.25.29.52/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+# http://118.25.29.58/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://120.241.133.166/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://120.241.133.150/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
@@ -69,7 +73,11 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 # http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 # http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 # http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
+# http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 # http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+# http://110.242.20.89/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+# http://110.242.20.90/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
+# http://110.242.20.108/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 # http://112.17.40.199/PLTV/88888888/224/3221226758/index.m3u8
 # http://39.134.176.163/PLTV/88888888/224/3221226758/index.m3u8
 # http://117.148.187.99/PLTV/88888888/224/3221226758/index.m3u8
