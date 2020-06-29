@@ -124,16 +124,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 # http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 # http://iptv.pdsu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",星影
+http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
 http://192.168.123.1:23234/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-name="IPTV经典电影",经典电影
+http://192.168.123.1:23234/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-name="该频道节目单尚无",喜剧影院
 http://192.168.123.1:23234/rtp/239.3.1.91:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院
 http://192.168.123.1:23234/rtp/239.3.1.93:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",星影
-http://192.168.123.1:23234/rtp/239.3.1.94:4120
-#EXTINF:-1 tvg-name="IPTV经典电影",经典电影
-http://192.168.123.1:23234/rtp/239.3.1.195:9024
 #EXTINF:-1 tvg-name="该频道节目单尚无",光影
 http://192.168.123.1:23234/rtp/239.3.1.84:4120
 #EXTINF:-1 tvg-name="上海纪实",纪实人文[高清]
