@@ -49,18 +49,11 @@ http://192.168.123.1:23234/rtp/239.3.1.152:8120
 http://192.168.123.1:23234/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13[高清][非官方]
 http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-# http://101.227.140.13/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-# http://101.227.140.14/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://118.25.29.15/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://118.25.29.24/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-# http://118.25.29.52/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://118.25.29.58/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-# http://120.241.135.106/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://120.241.135.120/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-# http://120.241.133.166/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-# http://120.241.133.150/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://210.22.242.108/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
-# http://211.159.133.112/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://116.31.69.111/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://125.94.63.119/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 # http://163.177.29.110/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
@@ -135,7 +128,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 # http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
-# http://iptv.pdsu.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
