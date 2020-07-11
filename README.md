@@ -14,7 +14,7 @@
 
 [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGMsLI](http://t.cn/A6LGMsLI "http://t.cn/A6LGMsLI")
 
-CDN镜像
+镜像
 
 [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGxAnD](http://t.cn/A6LGxAnD "http://t.cn/A6LGxAnD")
 
