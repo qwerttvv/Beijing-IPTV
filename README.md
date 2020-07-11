@@ -20,7 +20,7 @@
 
 [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGxqPl](http://t.cn/A6LGxqPl "http://t.cn/A6LGxqPl")
 
-[http://beijing-iptv.vercel.app/IPTV-Unicom.m3u](http://beijing-iptv.vercel.app/IPTV-Unicom.m3u "http://beijing-iptv.vercel.app/IPTV-Unicom.m3u") ———— [http://t.cn/A6yXKapF](http://t.cn/A6yXKapF "http://t.cn/A6yXKapF")
+[https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u") ———— [http://t.cn/A6yXC0vf](http://t.cn/A6yXC0vf "http://t.cn/A6yXC0vf")
 
 [https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGQ42Z](http://t.cn/A6LGQ42Z "http://t.cn/A6LGQ42Z")
 
