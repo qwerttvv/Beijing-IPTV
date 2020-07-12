@@ -16,8 +16,6 @@
 
 镜像
 
-[https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@latest/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGxAnD](http://t.cn/A6LGxAnD "http://t.cn/A6LGxAnD")
-
 [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u") ———— [http://t.cn/A6LGxqPl](http://t.cn/A6LGxqPl "http://t.cn/A6LGxqPl")
 
 [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u") ———— [http://t.cn/A6yXC0vf](http://t.cn/A6yXC0vf "http://t.cn/A6yXC0vf")
