@@ -47,11 +47,14 @@ http://192.168.123.1:23234/rtp/239.3.1.63:8116
 http://192.168.123.1:23234/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV12",CCTV-12[高清]
 http://192.168.123.1:23234/rtp/239.3.1.64:8124
+# #EXTINF:-1 tvg-name="CCTV13",CCTV-13
+# http://192.168.123.1:23234/rtp/239.3.1.13:8048
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13[高清][非官方]
 http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-# #EXTINF:-1 tvg-name="CCTV13",CCTV-13
-# http://192.168.123.1:23234/rtp/239.3.1.13:8048
+# http://119.28.95.11/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+# http://129.226.107.225/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+# http://129.226.106.81/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15[高清]
