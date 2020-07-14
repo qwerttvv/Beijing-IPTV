@@ -6,6 +6,8 @@
 
 ### 自用单播列表永久地址
 
+**udpxy url http://192.168.123.1:23234**
+
 源
 
 [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
