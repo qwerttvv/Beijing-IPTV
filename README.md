@@ -52,10 +52,7 @@
 
 ------------
 
-## EPG节目单
-[来源](https://github.com/supzhang/epg "来源")
-
-[主页](http://epg.51zmt.top:8000/ "主页")
+## EPG节目单 [来源](https://github.com/supzhang/epg "来源") [主页](http://epg.51zmt.top:8000/ "主页")
 
 源
 
@@ -66,7 +63,7 @@
 
 - [https://epg.vercel.app/e.xml](https://epg.vercel.app/e.xml "https://epg.vercel.app/e.xml")
 - [https://epg.vercel.app/e.xml.gz](https://epg.vercel.app/e.xml.gz "https://epg.vercel.app/e.xml.gz")
-- https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml](https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml "https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml")
+- [https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml](https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml "https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml")
 - [https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz](https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz "https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml](https://raw.fastgit.org/supzhang/epg/master/e.xml "https://raw.fastgit.org/supzhang/epg/master/e.xml")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml.gz](https://raw.fastgit.org/supzhang/epg/master/e.xml.gz "https://raw.fastgit.org/supzhang/epg/master/e.xml.gz")
