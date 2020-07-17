@@ -54,6 +54,8 @@
 
 ## EPG节目单 [来源](https://github.com/supzhang/epg "来源") [主页](http://epg.51zmt.top:8000/ "主页")
 
+M3U文件已经内置EPG节目单列表，支持x-tvg-url标签的播放软件无需手动加载EPG文件
+
 源
 
 - [https://raw.githubusercontent.com/supzhang/epg/master/e.xml](https://raw.githubusercontent.com/supzhang/epg/master/e.xml "https://raw.githubusercontent.com/supzhang/epg/master/e.xml")
