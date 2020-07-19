@@ -16,9 +16,7 @@
 镜像
 
 - [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u")
-- [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
-- [https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 
 
 ### 通用组播列表永久地址
@@ -31,9 +29,7 @@
 镜像
 
 - [https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u")
-- [https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
-- [https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.staticdn.net/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
 
 ### 节目列表来源
 1. 电视盒子抓包官方列表
@@ -65,12 +61,8 @@
 
 - [https://epg.vercel.app/e.xml](https://epg.vercel.app/e.xml "https://epg.vercel.app/e.xml")
 - [https://epg.vercel.app/e.xml.gz](https://epg.vercel.app/e.xml.gz "https://epg.vercel.app/e.xml.gz")
-- [https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml](https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml "https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml")
-- [https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz](https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz "https://cdn.jsdelivr.net/gh/supzhang/epg/e.xml.gz")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml](https://raw.fastgit.org/supzhang/epg/master/e.xml "https://raw.fastgit.org/supzhang/epg/master/e.xml")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml.gz](https://raw.fastgit.org/supzhang/epg/master/e.xml.gz "https://raw.fastgit.org/supzhang/epg/master/e.xml.gz")
-- [https://raw.staticdn.net/supzhang/epg/master/e.xml](https://raw.staticdn.net/supzhang/epg/master/e.xml "https://raw.staticdn.net/supzhang/epg/master/e.xml")
-- [https://raw.staticdn.net/supzhang/epg/master/e.xml.gz](https://raw.staticdn.net/supzhang/epg/master/e.xml.gz "https://raw.staticdn.net/supzhang/epg/master/e.xml.gz")
 
 ------------
 
