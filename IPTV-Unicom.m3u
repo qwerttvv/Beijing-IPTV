@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://epg.vercel.app/e.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视",BTV北京卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="BTV新闻",BTV新闻[高清]
@@ -53,7 +53,7 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://36.152.7.32/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-# http://cg6.hunancatv.cn:9090/live/CCTV-13.m3u8?ci=123
+# http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://27.36.62.163:9090/live/yueyuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
 # http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
