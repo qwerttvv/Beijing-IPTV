@@ -52,12 +52,9 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13[高清][非官方]
 http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://36.152.7.32/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-# http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 # http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-# http://27.36.62.163:9090/live/yueyuHD_7000.m3u8?ci=123&srchost=172.16.149.181:8060
-# http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000216.m3u8&ts=50&auth=no
-# http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000155.m3u8&ts=50&auth=no
 # http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+# http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15[高清]
