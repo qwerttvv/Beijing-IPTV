@@ -45,6 +45,7 @@
 4. 说实话，列表里地方高清台再往后的那些台，平时基本不看…不能说基本吧，应该是根本不看……
 5. 节目单有时候儿不准，看个大概吧
 6. 有的频道有高清和非高清，节目信号一样的。我只保留了高清，非高清的删了
+7. 添加了一个原始扫描到的[列表文件IPTV-Unicom-Scan.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan.m3u "列表文件IPTV-Unicom-Scan.m3u")，什么台都有，未经整理，仅作参考
 
 ------------
 
