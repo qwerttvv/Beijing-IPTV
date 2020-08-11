@@ -54,6 +54,7 @@ http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://119.167.231.122/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 # http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F22656FU3195804BK7804C004I57F7E2B7P2BF4M340E22CV0Z339C9W16267322BDCF99EA&playtoken=31608RMZHGPUCXX10&auth=no&programid=4200000067
 # http://httpdvb.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000067
+# http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15[高清]
