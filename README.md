@@ -60,8 +60,6 @@
 
 镜像
 
-- [https://epg.vercel.app/e.xml](https://epg.vercel.app/e.xml "https://epg.vercel.app/e.xml")
-- [https://epg.vercel.app/e.xml.gz](https://epg.vercel.app/e.xml.gz "https://epg.vercel.app/e.xml.gz")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml](https://raw.fastgit.org/supzhang/epg/master/e.xml "https://raw.fastgit.org/supzhang/epg/master/e.xml")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml.gz](https://raw.fastgit.org/supzhang/epg/master/e.xml.gz "https://raw.fastgit.org/supzhang/epg/master/e.xml.gz")
 
