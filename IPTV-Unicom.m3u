@@ -83,14 +83,12 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
 # http://110.242.20.108/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
-# http://220.201.218.82:65530/live/fhzw/index.m3u8
 # http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.75/PLTV/88888888/224/3221225942/1.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 http://221.179.217.9/PLTV/88888888/224/3221225949/1.m3u8
-# http://220.201.218.82:65530/live/fhzx/index.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
@@ -106,12 +104,10 @@ http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index
 #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 # http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-# http://111.20.45.154/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 # http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
 http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-# http://111.20.45.154/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.live_hls.zte.com
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
