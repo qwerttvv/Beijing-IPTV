@@ -108,18 +108,18 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1023.stream/playlist.m3u8
 # http://124.167.236.167/livews-4k.5club.CCTV.cn/live/4K1023.stream/playlist.m3u8
 # http://124.167.236.243/livews-4k.5club.CCTV.cn/live/4K1023.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-# http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
+http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
 # http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.75/PLTV/88888888/224/3221225942/1.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8
 # http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
-http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhchinese/1.m3u8
+# http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhchinese/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
-# http://221.179.217.9/PLTV/88888888/224/3221225949/1.m3u8
+http://221.179.217.9/PLTV/88888888/224/3221225949/1.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8
 # http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
-http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhzixun/1.m3u8
+# http://liveback.public.bcs.ysten.com/ysten-business/live/HD-4000k-1080P-fhzixun/1.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
