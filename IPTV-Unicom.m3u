@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-name="北京卫视",BTV北京卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.241:8000
 #EXTINF:-1 tvg-name="BTV新闻",BTV新闻[高清]
