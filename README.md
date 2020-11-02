@@ -10,11 +10,11 @@
 
 源
 
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
 - [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 
 镜像
 
+- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 
@@ -23,11 +23,11 @@
 
 源
 
-- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
 - [https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
 
 镜像
 
+- [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
 
@@ -39,7 +39,7 @@
 5. 交叉[参考3](https://github.com/friskit-china/beijing-unicom-iptv-tweaker "参考3")
 
 ### 其他说明
-1. 增加非北京联通IPTV来源的高清频道，比如CCTV13HD，这些频道会单独标记【非官方】，其中CCTV4K为超清HDR频道，支持HDR的播放设备可以有不错的体验（组播文件没有添加非官方来源频道）
+1. 增加非北京联通IPTV来源的高清频道，比如CCTV13HD，这些频道会单独标记【非官方】，其中CCTV4K为超清HDR频道，支持HDR的播放设备可以有不错的体验（组播文件没有添加非官方来源频道），个别非官方频道可能会用到IPv6网络
 2. 那些原本单独收费的频道，全部免费解锁直接看
 3. 有一些类似上网课一类的台，还有无意义的测试频道，还有一大堆购物频道，一并都删了
 4. 说实话，列表里地方的高清台再往后的那些台，平时基本不看…不能说基本吧，应该是根本不看……
@@ -51,17 +51,19 @@
 
 ------------
 
-## EPG节目单 [来源](https://github.com/supzhang/epg "来源") [主页](http://epg.51zmt.top:8000/ "主页")
+## EPG节目单 [主页](http://epg.51zmt.top:8000/ "主页") [GitHub](https://github.com/supzhang/epg "GitHub")
 
 **M3U文件已经内置EPG节目单列表，支持x-tvg-url标签的播放软件无需手动加载EPG文件**
 
 源
 
-- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml](https://raw.githubusercontent.com/supzhang/epg/master/e.xml "https://raw.githubusercontent.com/supzhang/epg/master/e.xml")
-- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz](https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz "https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz")
+- [http://epg.51zmt.top:8000/e.xml](http://epg.51zmt.top:8000/e.xml "http://epg.51zmt.top:8000/e.xml")
+- [http://epg.51zmt.top:8000/e.xml.gz](http://epg.51zmt.top:8000/e.xml.gz "http://epg.51zmt.top:8000/e.xml.gz")
 
 镜像
 
+- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml](https://raw.githubusercontent.com/supzhang/epg/master/e.xml "https://raw.githubusercontent.com/supzhang/epg/master/e.xml")
+- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz](https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz "https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml](https://raw.fastgit.org/supzhang/epg/master/e.xml "https://raw.fastgit.org/supzhang/epg/master/e.xml")
 - [https://raw.fastgit.org/supzhang/epg/master/e.xml.gz](https://raw.fastgit.org/supzhang/epg/master/e.xml.gz "https://raw.fastgit.org/supzhang/epg/master/e.xml.gz")
 
