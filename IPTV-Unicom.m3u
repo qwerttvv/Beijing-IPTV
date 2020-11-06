@@ -52,7 +52,7 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
 # rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
-# http://liveback.public.bcs.ysten.com/ysten-business/live/cctv-13/1.m3u8
+# http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
 # http://221.179.136.142/PLTV/88888888/224/3221226316/1.m3u8
 # http://221.179.136.143/PLTV/88888888/224/3221226316/1.m3u8
 # http://221.179.136.144/PLTV/88888888/224/3221226316/1.m3u8
@@ -128,22 +128,33 @@ http://192.168.123.1:23234/rtp/239.3.1.236:2000
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
+# #EXTINF:-1 tvg-name="CHC动作电影",大众影视[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+# http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
+# #EXTINF:-1 tvg-name="CHC动作电影",家庭影院[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+# http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
 # #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
+http://hdtv.haust.edu.cn/hls/chcatv.m3u8
+# http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 # http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 # http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 # http://111.20.45.154/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 # http://111.20.105.60:6060/yinhe/2/ch00000090990000002055?virtualDomain=yinhe.live_hls.zte.com
 # #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
+http://hdtv.haust.edu.cn/hls/chctv.m3u8
+# http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 # http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 # http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 # http://111.20.105.60:6060/yinhe/2/ch00000090990000002085?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
+# http://ivi.bupt.edu.cn/hls/chchd.m3u8
+# http://ivi6.bupt.edu.cn/hls/chchd.m3u8
+# http://hdtv.haust.edu.cn/hls/chchd.m3u8
 # http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://111.20.45.131/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 # http://111.20.105.60:6060/yinhe/2/ch00000090990000002065?virtualDomain=yinhe.live_hls.zte.com
-# http://ivi.bupt.edu.cn/hls/chchd.m3u8
-http://ivi6.bupt.edu.cn/hls/chchd.m3u8
-# http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
