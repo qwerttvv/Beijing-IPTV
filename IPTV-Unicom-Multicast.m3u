@@ -21,39 +21,39 @@ rtp://239.3.1.227:8000
 rtp://239.3.1.229:8000
 #EXTINF:-1 tvg-name="BTV青年",BTV青年
 rtp://239.3.1.232:8000
-#EXTINF:-1 tvg-name="CCTV1",CCTV-1[高清]
+#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 rtp://239.3.1.129:8008
-#EXTINF:-1 tvg-name="CCTV2",CCTV-2[高清]
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
 rtp://239.3.1.60:8084
-#EXTINF:-1 tvg-name="CCTV3",CCTV-3[高清]
+#EXTINF:-1 tvg-name="CCTV3",CCTV-3 综艺[高清]
 rtp://239.3.1.172:8001
-#EXTINF:-1 tvg-name="CCTV4",CCTV-4[高清]
+#EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际[高清]
 rtp://239.3.1.105:8092
-#EXTINF:-1 tvg-name="CCTV5",CCTV-5[高清]
+#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育[高清]
 rtp://239.3.1.173:8001
-#EXTINF:-1 tvg-name="CCTV5+",CCTV-5+[高清]
+#EXTINF:-1 tvg-name="CCTV5+",CCTV-5+ 体育赛事[高清]
 rtp://239.3.1.130:8004
-#EXTINF:-1 tvg-name="CCTV6",CCTV-6[高清]
+#EXTINF:-1 tvg-name="CCTV6",CCTV-6 电影[高清]
 rtp://239.3.1.174:8001
-#EXTINF:-1 tvg-name="CCTV7",CCTV-7[高清]
+#EXTINF:-1 tvg-name="CCTV7",CCTV-7 国防军事[高清]
 rtp://239.3.1.61:8104
-#EXTINF:-1 tvg-name="CCTV8",CCTV-8[高清]
+#EXTINF:-1 tvg-name="CCTV8",CCTV-8 电视剧[高清]
 rtp://239.3.1.175:8001
-#EXTINF:-1 tvg-name="CCTV9",CCTV-9[高清]
+#EXTINF:-1 tvg-name="CCTV9",CCTV-9 纪录[高清]
 rtp://239.3.1.62:8112
-#EXTINF:-1 tvg-name="CCTV10",CCTV-10[高清]
+#EXTINF:-1 tvg-name="CCTV10",CCTV-10 科教[高清]
 rtp://239.3.1.63:8116
-#EXTINF:-1 tvg-name="CCTV11",CCTV-11[高清]
+#EXTINF:-1 tvg-name="CCTV11",CCTV-11 戏曲[高清]
 rtp://239.3.1.152:8120
-#EXTINF:-1 tvg-name="CCTV12",CCTV-12[高清]
+#EXTINF:-1 tvg-name="CCTV12",CCTV-12 社会与法[高清]
 rtp://239.3.1.64:8124
-#EXTINF:-1 tvg-name="CCTV13",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻
 rtp://239.3.1.13:8048
-#EXTINF:-1 tvg-name="CCTV14",CCTV-14[高清]
+#EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
 rtp://239.3.1.65:8132
-#EXTINF:-1 tvg-name="CCTV15",CCTV-15[高清]
+#EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 rtp://239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV17",CCTV-17[高清]
+#EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
 rtp://239.3.1.236:2000
@@ -61,6 +61,8 @@ rtp://239.3.1.236:2000
 rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 rtp://239.3.1.250:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
+rtp://239.3.1.111:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 rtp://239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
@@ -83,12 +85,18 @@ rtp://239.3.1.58:8156
 rtp://239.3.1.71:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘剧场[高清]
 rtp://239.3.1.95:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",幸福剧场[高清]
+rtp://239.3.1.112:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘娱乐[高清]
 rtp://239.3.1.100:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",幸福娱乐[高清]
+rtp://239.3.1.113:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘Baby[高清]
 rtp://239.3.1.238:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",萌宠TV[高清]
 rtp://239.3.1.102:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
+rtp://239.3.1.114:8001
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 rtp://239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
