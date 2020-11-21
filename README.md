@@ -51,21 +51,12 @@
 
 ------------
 
-## EPG节目单 [主页](http://epg.51zmt.top:8000/ "主页") [GitHub](https://github.com/supzhang/epg "GitHub")
+## EPG节目单 [主页](http://epg.51zmt.top:8000/ "主页")
 
 **M3U文件已经内置EPG节目单列表，支持x-tvg-url标签的播放软件无需手动加载EPG文件**
 
-源
-
 - [http://epg.51zmt.top:8000/e.xml](http://epg.51zmt.top:8000/e.xml "http://epg.51zmt.top:8000/e.xml")
 - [http://epg.51zmt.top:8000/e.xml.gz](http://epg.51zmt.top:8000/e.xml.gz "http://epg.51zmt.top:8000/e.xml.gz")
-
-镜像
-
-- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml](https://raw.githubusercontent.com/supzhang/epg/master/e.xml "https://raw.githubusercontent.com/supzhang/epg/master/e.xml")
-- [https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz](https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz "https://raw.githubusercontent.com/supzhang/epg/master/e.xml.gz")
-- [https://raw.fastgit.org/supzhang/epg/master/e.xml](https://raw.fastgit.org/supzhang/epg/master/e.xml "https://raw.fastgit.org/supzhang/epg/master/e.xml")
-- [https://raw.fastgit.org/supzhang/epg/master/e.xml.gz](https://raw.fastgit.org/supzhang/epg/master/e.xml.gz "https://raw.fastgit.org/supzhang/epg/master/e.xml.gz")
 
 ------------
 
