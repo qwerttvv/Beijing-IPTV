@@ -116,7 +116,7 @@ http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8
 # http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
+#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
@@ -124,12 +124,12 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
-# #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
-# http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a27.m3u8
 # http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
-# #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
-# http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a29.m3u8
 # http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
@@ -266,7 +266,7 @@ http://192.168.123.1:23234/rtp/239.3.1.57:8152
 http://192.168.123.1:23234/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台",CETV3
 http://192.168.123.1:23234/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",CETV4
+#EXTINF:-1 tvg-name="中国教育4台",CETV4
 http://192.168.123.1:23234/rtp/239.3.1.56:4120
 #EXTINF:-1 tvg-name="CGTN",CGTN
 http://192.168.123.1:23234/rtp/239.3.1.16:8056
