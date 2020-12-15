@@ -55,7 +55,7 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
+#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 rtp://239.3.1.249:8001
@@ -191,7 +191,7 @@ rtp://239.3.1.57:8152
 rtp://239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台",CETV3
 rtp://239.3.1.55:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",CETV4
+#EXTINF:-1 tvg-name="中国教育4台",CETV4
 rtp://239.3.1.56:4120
 #EXTINF:-1 tvg-name="CGTN",CGTN
 rtp://239.3.1.16:8056
