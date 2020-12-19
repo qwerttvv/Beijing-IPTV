@@ -17,6 +17,7 @@
 - [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
+- [https://bjiptv.tk/IPTV-Unicom.m3u](https://bjiptv.tk/IPTV-Unicom.m3u "https://bjiptv.tk/IPTV-Unicom.m3u")
 
 
 ### 通用组播列表永久地址
@@ -32,6 +33,7 @@
 - [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
+- [https://bjiptv.tk/IPTV-Unicom-Multicast.m3u](https://bjiptv.tk/IPTV-Unicom-Multicast.m3u "https://bjiptv.tk/IPTV-Unicom-Multicast.m3u")
 
 ### 节目列表来源
 1. 电视盒子抓包官方列表
