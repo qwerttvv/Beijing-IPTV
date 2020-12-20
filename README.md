@@ -1,4 +1,3 @@
-123
 # Beijing-IPTV [HTTPS://BJIPTV.TK](https://bjiptv.tk "https://bjiptv.tk")
 
 ------------
