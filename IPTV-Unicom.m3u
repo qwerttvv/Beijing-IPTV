@@ -51,7 +51,7 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 # http://192.168.123.1:23234/rtp/239.3.1.13:8048
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
-# http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
+# http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
 # rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
 # http://itv.ahau.edu.cn/hls/cctv13hd.m3u8
 # http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
@@ -106,6 +106,9 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1225.stream/playlist.m3u8
 # http://124.167.236.243/livews-4k.5club.CCTV.cn/live/4K1225.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+# http://itv.ahau.edu.cn/hls/hls254.m3u8
+# http://hdtv.haust.edu.cn/hls/hls254.m3u8
 # http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
 # http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
 # http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
@@ -114,6 +117,9 @@ http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 # http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+# http://itv.ahau.edu.cn/hls/hls255.m3u8
+# http://hdtv.haust.edu.cn/hls/hls255.m3u8
 # http://221.179.217.9/PLTV/88888888/224/3221225949/1.m3u8
 # http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8
 # http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
@@ -165,6 +171,8 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
 http://192.168.123.1:23234/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
+http://192.168.123.1:23234/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",地理
 http://192.168.123.1:23234/rtp/239.3.1.71:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘剧场[高清]
@@ -179,8 +187,6 @@ http://192.168.123.1:23234/rtp/239.3.1.113:8001
 http://192.168.123.1:23234/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",萌宠TV[高清]
 http://192.168.123.1:23234/rtp/239.3.1.102:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
-http://192.168.123.1:23234/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
