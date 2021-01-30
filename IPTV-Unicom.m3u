@@ -53,7 +53,9 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
 # http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
 # http://itv.ahau.edu.cn/hls/hls186a13.m3u8
+# http://hdtv.haust.edu.cn/hls/hls186a13.m3u8
 # rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
+# rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
@@ -63,12 +65,15 @@ http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a573.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
 #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a512.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a518.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0129.stream/playlist.m3u8
 # http://111.161.121.181/livews-4k.5club.CCTV.cn/live//4K0129.stream/playlist.m3u8
@@ -90,10 +95,12 @@ http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K0129.stream/playlist.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 # http://itv.ahau.edu.cn/hls/hls254.m3u8
+# http://hdtv.haust.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 # http://itv.ahau.edu.cn/hls/hls255.m3u8
+# http://hdtv.haust.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
@@ -105,23 +112,29 @@ http://192.168.123.1:23234/rtp/239.3.1.111:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
 # http://itv.ahau.edu.cn/hls/hls78a46.m3u8
+# http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a27.m3u8
+# http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a29.m3u8
+# http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
 # http://itv.ahau.edu.cn/hls/hls260.m3u8
+# http://hdtv.haust.edu.cn/hls/hls260.m3u8
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/hls260.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 # http://itv.ahau.edu.cn/hls/hls261.m3u8
+# http://hdtv.haust.edu.cn/hls/hls261.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
 http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
 # http://itv.ahau.edu.cn/hls/hls259.m3u8
+# http://hdtv.haust.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
