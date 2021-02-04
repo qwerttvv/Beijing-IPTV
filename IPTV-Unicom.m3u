@@ -109,8 +109,8 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+# #EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
+# http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
 # http://itv.ahau.edu.cn/hls/hls78a46.m3u8
 # http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
