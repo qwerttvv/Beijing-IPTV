@@ -75,10 +75,11 @@ http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a518.m3u8
 http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
+https://azusa.ru/tv/4k.m3u8
 # http://111.161.121.181/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
 # http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
 # http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
-http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
+# http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
 # http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K10M.stream/playlist.m3u8
 # http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K10M.stream/playlist.m3u8
 # http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K10M.stream/playlist.m3u8
