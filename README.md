@@ -16,6 +16,7 @@
 
 - [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom.m3u")
+- [https://beijing-iptv.pages.dev/IPTV-Unicom.m3u](https://beijing-iptv.pages.dev/IPTV-Unicom.m3u "https://beijing-iptv.pages.dev/IPTV-Unicom.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u")
 - [https://bjiptv.tk/IPTV-Unicom.m3u](https://bjiptv.tk/IPTV-Unicom.m3u "https://bjiptv.tk/IPTV-Unicom.m3u")
 
@@ -32,6 +33,7 @@
 
 - [https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u](https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u "https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom-Multicast.m3u")
 - [https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.vercel.app/IPTV-Unicom-Multicast.m3u")
+- [https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u](https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u "https://beijing-iptv.pages.dev/IPTV-Unicom-Multicast.m3u")
 - [https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u](https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u "https://raw.fastgit.org/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u")
 - [https://bjiptv.tk/IPTV-Unicom-Multicast.m3u](https://bjiptv.tk/IPTV-Unicom-Multicast.m3u "https://bjiptv.tk/IPTV-Unicom-Multicast.m3u")
 
