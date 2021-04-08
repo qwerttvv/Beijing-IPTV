@@ -7,20 +7,20 @@ rtp://239.3.1.159:8000
 rtp://239.3.1.158:8000
 #EXTINF:-1 tvg-name="BTV文艺",BTV文艺[高清]
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[高清]
-rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV财经",BTV财经[高清]
+rtp://239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活",BTV生活[高清]
+rtp://239.3.1.117:8000
+#EXTINF:-1 tvg-name="BTV青年",BTV青年[高清]
+rtp://239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教",BTV科教[高清]
+rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画",BTV卡酷少儿[高清]
 rtp://239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清HDR]
+rtp://239.3.1.120:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 rtp://239.3.1.235:8000
-#EXTINF:-1 tvg-name="BTV生活",BTV生活
-rtp://239.3.1.231:8000
-#EXTINF:-1 tvg-name="BTV科教",BTV科教
-rtp://239.3.1.227:8000
-#EXTINF:-1 tvg-name="BTV财经",BTV财经
-rtp://239.3.1.229:8000
-#EXTINF:-1 tvg-name="BTV青年",BTV青年
-rtp://239.3.1.232:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 rtp://239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
@@ -55,7 +55,7 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
+#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 rtp://239.3.1.249:8001
@@ -191,7 +191,7 @@ rtp://239.3.1.57:8152
 rtp://239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台",CETV3
 rtp://239.3.1.55:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",CETV4
+#EXTINF:-1 tvg-name="中国教育4台",CETV4
 rtp://239.3.1.56:4120
 #EXTINF:-1 tvg-name="CGTN",CGTN
 rtp://239.3.1.16:8056

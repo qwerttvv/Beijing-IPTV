@@ -7,20 +7,20 @@ http://192.168.123.1:23234/rtp/239.3.1.159:8000
 http://192.168.123.1:23234/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-name="BTV文艺",BTV文艺[高清]
 http://192.168.123.1:23234/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[高清]
-http://192.168.123.1:23234/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV财经",BTV财经[高清]
+http://192.168.123.1:23234/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-name="BTV生活",BTV生活[高清]
+http://192.168.123.1:23234/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-name="BTV青年",BTV青年[高清]
+http://192.168.123.1:23234/rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-name="BTV科教",BTV科教[高清]
+http://192.168.123.1:23234/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画",BTV卡酷少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清HDR]
+http://192.168.123.1:23234/rtp/239.3.1.120:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
-#EXTINF:-1 tvg-name="BTV生活",BTV生活
-http://192.168.123.1:23234/rtp/239.3.1.231:8000
-#EXTINF:-1 tvg-name="BTV科教",BTV科教
-http://192.168.123.1:23234/rtp/239.3.1.227:8000
-#EXTINF:-1 tvg-name="BTV财经",BTV财经
-http://192.168.123.1:23234/rtp/239.3.1.229:8000
-#EXTINF:-1 tvg-name="BTV青年",BTV青年
-http://192.168.123.1:23234/rtp/239.3.1.232:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 http://192.168.123.1:23234/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
@@ -50,20 +50,13 @@ http://192.168.123.1:23234/rtp/239.3.1.64:8124
 # #EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻
 # http://192.168.123.1:23234/rtp/239.3.1.13:8048
 #EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
+# http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
+# http://itv.ahau.edu.cn/hls/hls186a13.m3u8
+# http://hdtv.haust.edu.cn/hls/hls186a13.m3u8
+# https://itv.ahcme.edu.cn/hls/hls186a13.m3u8
 # rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
-# http://itv.ahau.edu.cn/hls/cctv13hd.m3u8
-# http://hdtv.haust.edu.cn/hls/cctv13hd.m3u8
-# http://221.179.136.142/PLTV/88888888/224/3221226316/1.m3u8
-# http://221.179.136.143/PLTV/88888888/224/3221226316/1.m3u8
-# http://221.179.136.144/PLTV/88888888/224/3221226316/1.m3u8
-# http://221.179.136.145/PLTV/88888888/224/3221226316/1.m3u8
-# http://111.13.42.42/PLTV/88888888/224/3221226159/1.m3u8
-# http://111.13.42.43/PLTV/88888888/224/3221226159/1.m3u8
-# http://111.13.42.44/PLTV/88888888/224/3221226159/1.m3u8
-# http://111.13.42.45/PLTV/88888888/224/3221226159/1.m3u8
-# http://221.179.136.150/PLTV/88888888/224/3221226159/1.m3u8
-# http://221.179.136.151/PLTV/88888888/224/3221226159/1.m3u8
+# rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
@@ -71,52 +64,61 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/gfjstv.m3u8
-# http://itv.ahau.edu.cn/hls/gfjstv.m3u8
-# http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
-#EXTINF:-1 tvg-name="风云足球",CCTV 风云足球[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
-# http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
-# http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a573.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a573.m3u8
 #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
-# http://itv.ahau.edu.cn/hls/dyjctv.m3u8
-# http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a512.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a512.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hjjctv.m3u8
-# http://itv.ahau.edu.cn/hls/hjjctv.m3u8
-# http://hdtv.haust.edu.cn/hls/hjjctv.m3u8
-#EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-http://111.161.121.211/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://111.161.121.181/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://111.161.121.213/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://111.161.121.214/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://110.242.20.87/livews-4k.5club.cctv.cn/live/4K1210.stream/playlist.m3u8
-# http://110.242.20.88/livews-4k.5club.cctv.cn/live/4K1210.stream/playlist.m3u8
-# http://110.242.20.89/livews-4k.5club.cctv.cn/live/4K1210.stream/playlist.m3u8
-# http://110.242.20.90/livews-4k.5club.cctv.cn/live/4K1210.stream/playlist.m3u8
-# http://110.242.20.108/livews-4k.5club.cctv.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.39/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.164/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.165/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.166/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.167/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
-# http://124.167.236.243/livews-4k.5club.CCTV.cn/live/4K1210.stream/playlist.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a518.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a518.m3u8
+#EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a516.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a516.m3u8
+#EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a515.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
+# #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
+# CCTV4K定位
+# http://111.161.121.181/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://111.161.121.211/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://111.161.121.212/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://111.161.121.213/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://111.161.121.214/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://110.242.20.87/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://110.242.20.88/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://110.242.20.89/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://110.242.20.90/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://110.242.20.108/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.39/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.164/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.165/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.166/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.167/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+# http://124.167.236.243/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-# http://221.179.217.9/PLTV/88888888/224/3221225948/1.m3u8
-# http://221.179.217.69/PLTV/88888888/224/3221225942/1.m3u8
-# http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-# http://221.179.217.75/PLTV/88888888/224/3221225942/1.m3u8
-# http://111.13.42.9/PLTV/88888888/224/3221225948/1.m3u8
-# http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+# http://itv.ahau.edu.cn/hls/hls254.m3u8
+# http://hdtv.haust.edu.cn/hls/hls254.m3u8
+# https://itv.ahcme.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
-# http://221.179.217.9/PLTV/88888888/224/3221225949/1.m3u8
-# http://111.13.42.9/PLTV/88888888/224/3221225949/1.m3u8
-# http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱上4K[超清]
+# http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+# http://itv.ahau.edu.cn/hls/hls255.m3u8
+# http://hdtv.haust.edu.cn/hls/hls255.m3u8
+# https://itv.ahcme.edu.cn/hls/hls255.m3u8
+#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
@@ -124,20 +126,38 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
-# #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
-# http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+# http://itv.ahau.edu.cn/hls/hls78a46.m3u8
+# http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
+# https://itv.ahcme.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a27.m3u8
 # http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
-# #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
-# http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+# https://itv.ahcme.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a29.m3u8
 # http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
+# https://itv.ahcme.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
+# http://itv.ahau.edu.cn/hls/hls260.m3u8
+# http://hdtv.haust.edu.cn/hls/hls260.m3u8
+# https://itv.ahcme.edu.cn/hls/hls260.m3u8
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
-# http://itv.ahau.edu.cn/hls/chchd.m3u8
-# http://hdtv.haust.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
+# http://itv.ahau.edu.cn/hls/hls261.m3u8
+# http://hdtv.haust.edu.cn/hls/hls261.m3u8
+# https://itv.ahcme.edu.cn/hls/hls261.m3u8
+#EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
+# http://itv.ahau.edu.cn/hls/hls259.m3u8
+# http://hdtv.haust.edu.cn/hls/hls259.m3u8
+# https://itv.ahcme.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
@@ -156,6 +176,13 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
 http://192.168.123.1:23234/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
+http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+# http://itv.ahau.edu.cn/hls/hls184a639.m3u8
+# http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
+# https://itv.ahcme.edu.cn/hls/hls184a639.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
+http://192.168.123.1:23234/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",地理
 http://192.168.123.1:23234/rtp/239.3.1.71:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘剧场[高清]
@@ -170,8 +197,6 @@ http://192.168.123.1:23234/rtp/239.3.1.113:8001
 http://192.168.123.1:23234/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",萌宠TV[高清]
 http://192.168.123.1:23234/rtp/239.3.1.102:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
-http://192.168.123.1:23234/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
@@ -266,7 +291,7 @@ http://192.168.123.1:23234/rtp/239.3.1.57:8152
 http://192.168.123.1:23234/rtp/239.3.1.54:4120
 #EXTINF:-1 tvg-name="中国教育3台",CETV3
 http://192.168.123.1:23234/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-name="该频道节目单尚无",CETV4
+#EXTINF:-1 tvg-name="中国教育4台",CETV4
 http://192.168.123.1:23234/rtp/239.3.1.56:4120
 #EXTINF:-1 tvg-name="CGTN",CGTN
 http://192.168.123.1:23234/rtp/239.3.1.16:8056
