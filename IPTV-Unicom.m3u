@@ -47,16 +47,8 @@ http://192.168.123.1:23234/rtp/239.3.1.63:8116
 http://192.168.123.1:23234/rtp/239.3.1.152:8120
 #EXTINF:-1 tvg-name="CCTV12",CCTV-12 社会与法[高清]
 http://192.168.123.1:23234/rtp/239.3.1.64:8124
-# #EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻
-# http://192.168.123.1:23234/rtp/239.3.1.13:8048
-#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清][非官方]
-# http://yuniptvun100.chinayungu.cn:65530/live/cctv13/index.m3u8
-http://hdtv.lzu6.edu.cn/hls/hls186a13.m3u8
-# http://itv.ahau.edu.cn/hls/hls186a13.m3u8
-# http://hdtv.haust.edu.cn/hls/hls186a13.m3u8
-# https://itv.ahcme.edu.cn/hls/hls186a13.m3u8
-# rtmp://ivi6.bupt.edu.cn/livetv/cctv13hd
-# rtmp://ivi.bupt.edu.cn/livetv/cctv13hd
+#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻[高清]
+http://192.168.123.1:23234/rtp/239.3.1.124:8128
 #EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
@@ -90,31 +82,15 @@ http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 # CCTV4K定位
-# http://111.161.121.181/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://111.161.121.211/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://111.161.121.212/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://111.161.121.213/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://111.161.121.214/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://110.242.20.87/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://110.242.20.88/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://110.242.20.89/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://110.242.20.90/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://110.242.20.108/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.39/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.164/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.165/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.166/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.167/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-# http://124.167.236.243/livews-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
-# http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+# http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 # http://itv.ahau.edu.cn/hls/hls254.m3u8
 # http://hdtv.haust.edu.cn/hls/hls254.m3u8
 # https://itv.ahcme.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
-http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
-# http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+# http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
+http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 # http://itv.ahau.edu.cn/hls/hls255.m3u8
 # http://hdtv.haust.edu.cn/hls/hls255.m3u8
 # https://itv.ahcme.edu.cn/hls/hls255.m3u8
@@ -126,8 +102,8 @@ http://192.168.123.1:23234/rtp/239.3.1.249:8001
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+# #EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
+# http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
 # http://itv.ahau.edu.cn/hls/hls78a46.m3u8
 # http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 # https://itv.ahcme.edu.cn/hls/hls78a46.m3u8
@@ -213,6 +189,8 @@ http://192.168.123.1:23234/rtp/239.3.1.142:8048
 http://192.168.123.1:23234/rtp/239.3.1.211:8064
 #EXTINF:-1 tvg-name="天津卫视",天津卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-name="重庆卫视",重庆卫视[高清]
+http://192.168.123.1:23234/rtp/239.3.1.122:8160
 #EXTINF:-1 tvg-name="山东卫视",山东卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.209:8052
 #EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视[高清]
@@ -227,6 +205,8 @@ http://192.168.123.1:23234/rtp/239.3.1.138:8044
 http://192.168.123.1:23234/rtp/239.3.1.149:8076
 #EXTINF:-1 tvg-name="东南卫视",东南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-name="江西卫视",江西卫视[高清]
+http://192.168.123.1:23234/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-name="旅游卫视",海南卫视
 http://192.168.123.1:23234/rtp/239.3.1.45:8304
 #EXTINF:-1 tvg-name="云南卫视",云南卫视
@@ -249,16 +229,12 @@ http://192.168.123.1:23234/rtp/239.3.1.42:8172
 http://192.168.123.1:23234/rtp/239.3.1.39:8300
 #EXTINF:-1 tvg-name="新疆卫视",新疆卫视
 http://192.168.123.1:23234/rtp/239.3.1.48:8160
-#EXTINF:-1 tvg-name="江西卫视",江西卫视
-http://192.168.123.1:23234/rtp/239.3.1.30:8280
 #EXTINF:-1 tvg-name="河南卫视",河南卫视
 http://192.168.123.1:23234/rtp/239.3.1.27:8128
 #EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
 http://192.168.123.1:23234/rtp/239.3.1.49:8188
 #EXTINF:-1 tvg-name="西藏卫视",西藏卫视
 http://192.168.123.1:23234/rtp/239.3.1.47:8164
-#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
-http://192.168.123.1:23234/rtp/239.3.1.35:8296
 #EXTINF:-1 tvg-name="三沙卫视",三沙卫视
 http://192.168.123.1:23234/rtp/239.3.1.155:4120
 #EXTINF:-1 tvg-name="陕西卫视",陕西卫视
