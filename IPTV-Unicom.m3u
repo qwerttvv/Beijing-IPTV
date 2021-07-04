@@ -19,6 +19,8 @@ http://192.168.123.1:23234/rtp/239.3.1.115:8000
 http://192.168.123.1:23234/rtp/239.3.1.189:8000
 #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清HDR]
 http://192.168.123.1:23234/rtp/239.3.1.120:8000
+# #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清]
+# http://192.168.123.1:23234/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
@@ -56,43 +58,43 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a573.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a573.m3u8
 #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a512.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a512.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a518.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a518.m3u8
 #EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a516.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a516.m3u8
 #EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a515.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a515.m3u8
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 # CCTV4K定位
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
-http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 # http://itv.ahau.edu.cn/hls/hls254.m3u8
-# http://hdtv.haust.edu.cn/hls/hls254.m3u8
+http://hdtv.haust.edu.cn/hls/hls254.m3u8
 # https://itv.ahcme.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
-http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 # http://itv.ahau.edu.cn/hls/hls255.m3u8
-# http://hdtv.haust.edu.cn/hls/hls255.m3u8
+http://hdtv.haust.edu.cn/hls/hls255.m3u8
 # https://itv.ahcme.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
@@ -103,36 +105,36 @@ http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
 # http://itv.ahau.edu.cn/hls/hls78a46.m3u8
-# http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
+http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
 # https://itv.ahcme.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a27.m3u8
-# http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
+http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
 # https://itv.ahcme.edu.cn/hls/hls75a27.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 # http://itv.ahau.edu.cn/hls/hls75a29.m3u8
-# http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
+http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
 # https://itv.ahcme.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
 # http://itv.ahau.edu.cn/hls/hls260.m3u8
-# http://hdtv.haust.edu.cn/hls/hls260.m3u8
+http://hdtv.haust.edu.cn/hls/hls260.m3u8
 # https://itv.ahcme.edu.cn/hls/hls260.m3u8
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 # http://itv.ahau.edu.cn/hls/hls261.m3u8
-# http://hdtv.haust.edu.cn/hls/hls261.m3u8
+http://hdtv.haust.edu.cn/hls/hls261.m3u8
 # https://itv.ahcme.edu.cn/hls/hls261.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
 # http://itv.ahau.edu.cn/hls/hls259.m3u8
-# http://hdtv.haust.edu.cn/hls/hls259.m3u8
+http://hdtv.haust.edu.cn/hls/hls259.m3u8
 # https://itv.ahcme.edu.cn/hls/hls259.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
@@ -153,9 +155,9 @@ http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
 http://192.168.123.1:23234/rtp/239.3.1.58:8156
 #EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+# http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a639.m3u8
-# http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
+http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a639.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
 http://192.168.123.1:23234/rtp/239.3.1.114:8001
@@ -173,6 +175,22 @@ http://192.168.123.1:23234/rtp/239.3.1.113:8001
 http://192.168.123.1:23234/rtp/239.3.1.238:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",萌宠TV[高清]
 http://192.168.123.1:23234/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 欧洲[高清]
+http://192.168.123.1:23234/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CCTV-4 中文国际 美洲[高清]
+http://192.168.123.1:23234/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-name="CGTN",CGTN 新闻[高清]
+http://192.168.123.1:23234/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录[高清]
+http://192.168.123.1:23234/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 西班牙语[高清]
+http://192.168.123.1:23234/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 法语[高清]
+http://192.168.123.1:23234/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 阿拉伯语[高清]
+http://192.168.123.1:23234/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 俄语[高清]
+http://192.168.123.1:23234/rtp/239.3.1.220:4220
 #EXTINF:-1 tvg-name="湖南卫视",湖南卫视[高清]
 http://192.168.123.1:23234/rtp/239.3.1.132:8012
 #EXTINF:-1 tvg-name="东方卫视",东方卫视[高清]
@@ -251,8 +269,10 @@ http://192.168.123.1:23234/rtp/239.3.1.163:8001
 http://192.168.123.1:23234/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",密云电视台[高清]
 http://192.168.123.1:23234/rtp/239.3.1.154:8001
-#EXTINF:-1 tvg-name="茶频道",茶[高清]
+#EXTINF:-1 tvg-name="茶频道",茶频道[高清]
 http://192.168.123.1:23234/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-name="茶频道",茶频道[高清]
+http://192.168.123.1:23234/rtp/239.3.1.97:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",体育赛事[高清]
 http://192.168.123.1:23234/rtp/239.3.1.157:8176
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘精彩[高清]
