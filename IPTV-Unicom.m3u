@@ -154,8 +154,8 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
 http://192.168.123.1:23234/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
-http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+# #EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
+# http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
 # http://itv.ahau.edu.cn/hls/hls184a639.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
 # https://itv.ahcme.edu.cn/hls/hls184a639.m3u8
