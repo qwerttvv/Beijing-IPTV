@@ -82,9 +82,6 @@ http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 # http://60.255.49.202/live/sjdl.m3u8
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 # CCTV4K定位
-#EXTINF:-1 tvg-name="该频道节目单尚无",央视新闻正直播[高清][非官方]
-# http://newsalic.v.myalicdn.com/news/news09_1/index.m3u8
-http://newscncc.v.wscdns.com/news/news09_1/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
