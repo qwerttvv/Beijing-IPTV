@@ -85,12 +85,12 @@ http://hdtv.haust.edu.cn/hls/hls254.m3u8
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 http://hdtv.haust.edu.cn/hls/hls255.m3u8
+#EXTINF:-1 tvg-name="该频道节目单尚无",4K超高清电影[超清HDR][非官方]
+http://60.255.49.202/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",4K超高清电影[超清HDR][非官方]
-http://60.255.49.202/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
