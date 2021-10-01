@@ -1,25 +1,25 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="北京卫视",BTV北京卫视[高清]
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
 rtp://239.3.1.241:8000
-#EXTINF:-1 tvg-name="BTV新闻",BTV新闻[高清]
+#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
 rtp://239.3.1.159:8000
-#EXTINF:-1 tvg-name="BTV影视",BTV影视[高清]
+#EXTINF:-1 tvg-name="BTV影视",BRTV影视[高清]
 rtp://239.3.1.158:8000
-#EXTINF:-1 tvg-name="BTV文艺",BTV文艺[高清]
+#EXTINF:-1 tvg-name="BTV文艺",BRTV文艺[高清]
 rtp://239.3.1.242:8000
-#EXTINF:-1 tvg-name="BTV财经",BTV财经[高清]
+#EXTINF:-1 tvg-name="BTV财经",BRTV财经[高清]
 rtp://239.3.1.116:8000
-#EXTINF:-1 tvg-name="BTV生活",BTV生活[高清]
+#EXTINF:-1 tvg-name="BTV生活",BRTV生活[高清]
 rtp://239.3.1.117:8000
-#EXTINF:-1 tvg-name="BTV青年",BTV青年[高清]
+#EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
 rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV科教",BTV科教[高清]
+#EXTINF:-1 tvg-name="BTV科教",BRTV科教[高清]
 rtp://239.3.1.115:8000
-#EXTINF:-1 tvg-name="卡酷动画",BTV卡酷少儿[高清]
+#EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 rtp://239.3.1.189:8000
-# #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清HDR]
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清HDR]
 # rtp://239.3.1.120:8000
-# #EXTINF:-1 tvg-name="北京纪实",BTV冬奥纪实[超清]
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # rtp://239.3.1.121:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 rtp://239.3.1.235:8000
