@@ -61,10 +61,10 @@ http://192.168.123.1:23234/rtp/239.3.1.65:8132
 http://192.168.123.1:23234/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
+# #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
 # http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
-http://60.255.49.202/live/bqkj.m3u8
+# http://60.255.49.202/live/bqkj.m3u8
 #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
 # http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
@@ -113,17 +113,17 @@ http://192.168.123.1:23234/rtp/239.3.1.111:8001
 # http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
 # http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
 #EXTINF:-1 tvg-name="峨嵋电影",峨眉电影[高清][非官方]
-http://60.255.49.202/live/emdygqH265_4000.m3u8
+http://60.255.49.202/live/emdygqH265.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
 # http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
 # http://hdtv.haust.edu.cn/hls/hls260.m3u8
 # http://ivi.bupt.edu.cn/hls/chchd.m3u8
 # http://ivi6.bupt.edu.cn/hls/chchd.m3u8
 http://60.255.49.202/live/lnwsCHC-HDH265.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
+# #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
 # http://hdtv.lzu6.edu.cn/hls/hls261.m3u8
 # http://hdtv.haust.edu.cn/hls/hls261.m3u8
-http://60.255.49.202/live/gef.wqCHCdzdyH265.m3u8
+# http://60.255.49.202/live/gef.wqCHCdzdyH265.m3u8
 #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
 # http://hdtv.lzu6.edu.cn/hls/hls259.m3u8
 # http://hdtv.haust.edu.cn/hls/hls259.m3u8
