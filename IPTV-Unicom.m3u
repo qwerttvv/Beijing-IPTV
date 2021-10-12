@@ -83,16 +83,14 @@ http://60.255.49.202/live/fyjc.m3u8
 http://60.255.49.202/live/sjdl.m3u8
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 # CCTV4K定位
-#EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
+# #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzw/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
 # http://hdtv.haust.edu.cn/hls/hls254.m3u8
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
+# #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 # http://yuniptvun100.chinayungu.cn:65530/live/fhzx/index.m3u8
 # http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
 # http://hdtv.haust.edu.cn/hls/hls255.m3u8
-https://www.chaojidianshi.net/nzbtv/ldlive.php?id=fhzx&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超高清电影[超清HDR][非官方]
 http://60.255.49.202/live/emdy4k.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
