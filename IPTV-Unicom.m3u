@@ -66,8 +66,8 @@ http://192.168.123.1:23234/rtp/239.3.1.151:8144
 # #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
 # #EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
 # #EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
-# #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-# CCTV4K定位
+#EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
+https://v.bjiptv.tk/4.php
 # #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 # #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
@@ -82,7 +82,8 @@ http://192.168.123.1:23234/rtp/239.3.1.111:8001
 # #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
 # #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
 # #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
-# #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
+#EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
+http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_live.m3u8
 # #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
