@@ -17,12 +17,14 @@ http://192.168.123.1:23234/rtp/239.3.1.118:8000
 http://192.168.123.1:23234/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 http://192.168.123.1:23234/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清]
+http://192.168.123.1:23234/rtp/239.3.1.243:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清HDR]
 # http://192.168.123.1:23234/rtp/239.3.1.120:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # http://192.168.123.1:23234/rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清][非官方]
-http://hdtv.haust.edu.cn/hls/hls69a25.m3u8
+# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清][非官方]
+# http://hdtv.haust.edu.cn/hls/hls69a25.m3u8
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
