@@ -50,7 +50,7 @@
 4. 说实话，列表里地方的高清台再往后的那些台，平时基本不看…不能说基本吧，应该是根本不看……
 5. EPG节目单有时候儿不准，看个大概吧
 6. 有的频道有高清和非高清，节目信号一样的。只保留了高清，避免重复，非高清的全部删了
-7. 原始扫描到的列表文件[IPTV-Unicom-Scan.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan.m3u "IPTV-Unicom-Scan.m3u")什么台都有，未经整理，仅作参考
+7. 抓包得到的地址是239.3.1.X，该网段原始扫描到的列表文件为[IPTV-Unicom-Scan-A.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-A.m3u "IPTV-Unicom-Scan-A.m3u")什么台都有，未经整理，另外另一个网段239.2.1.X我本地也可以看，文件为[IPTV-Unicom-Scan-B.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-B.m3u "IPTV-Unicom-Scan-B.m3u")，仅作参考
 8. 恕无法提供抓包的原始文件，文件里边有私人的信息，包括时移地址什么的。如果脱敏，那和上述已提供的列表就没啥区别了
 9. 本项目的issues我关闭了。如果你想反馈问题或者提出宝贵的意见建议，总之你真心想联系我的话，你总会想到办法的：）
 
