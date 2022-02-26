@@ -52,7 +52,7 @@
 7. 抓包得到的地址是239.3.1.X，该网段原始扫描到的列表文件为[IPTV-Unicom-Scan-A.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-A.m3u "IPTV-Unicom-Scan-A.m3u")什么台都有，未经整理，另外另一个网段239.2.1.X我本地也可以看，文件为[IPTV-Unicom-Scan-B.m3u](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Scan-B.m3u "IPTV-Unicom-Scan-B.m3u")，仅作参考
 8. 恕无法提供抓包的原始文件，文件里边有私人的信息，包括时移地址什么的。如果脱敏，那和上述已提供的列表就没啥区别了
 9. 本项目的issues我关闭了。如果你想反馈问题或者提出宝贵的意见建议，总之你真心想联系我的话，你总会想到办法的：）
-10. 来源于sdhzdmzzl @zzl360 的组播扫描工具[iptvscanner.7z](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "iptvscanner.7z")是win x64版本，使用方法为“iptvscanner.exe 起始IP 终止IP 超时（毫秒）”，例如“iptvscanner.exe 239.3.1.1 239.3.1.255 2000”，如不填写超时参数，默认1500毫秒。
+10. 来源于[zzl360](https://github.com/zzl360 "zzl360")（sdhzdmzzl）的组播扫描工具[iptvscanner.7z](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "iptvscanner.7z")是win x64版本，使用方法为“iptvscanner.exe 起始IP 终止IP 超时（毫秒）”，例如“iptvscanner.exe 239.3.1.1 239.3.1.255 2000”，如不填写超时参数，默认1500毫秒。
 
 ------------
 
