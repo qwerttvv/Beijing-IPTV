@@ -39,7 +39,8 @@
 
 ### 节目列表来源
 1. 电视盒子抓包官方列表
-2. 交叉[参考](https://github.com/islercn/BeiJing-Unicom-IPTV-List "参考")
+2. 组播地址[扫描](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "扫描")
+3. 交叉[参考](https://github.com/islercn/BeiJing-Unicom-IPTV-List "参考")
 
 ### 其他说明
 1. 增加非北京联通IPTV来源的高清频道，比如CCTV4K、凤凰等，这些频道会单独标记【非官方】，其中CCTV4K为超清HDR频道，支持HDR的播放设备可以有不错的体验（组播文件没有添加非官方来源频道），非官方频道可能会用到IPv6网络，完整无障碍观看请在本地开启IPv6支持
