@@ -89,7 +89,7 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",4K电影[超清]
+#EXTINF:-1 tvg-name="该频道节目单尚无",4K电影[超清][非官方]
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
@@ -104,8 +104,6 @@ http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?chann
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作电影[高清][非官方]
 http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",明星大片[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=no
 # #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
 # http://hdtv.haust.edu.cn/hls/hls260.m3u8
 # #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
