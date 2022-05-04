@@ -67,15 +67,20 @@ http://192.168.123.1:23234/rtp/239.3.1.183:8001
 # http://192.168.123.1:23234/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
-# #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
+#EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
-# #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
+#EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-# #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
+#EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-# #EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
+#EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-# #EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
+#EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
+http://tlivectfree-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
 # http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 https://v.bjiptv.eu.org/4.php
