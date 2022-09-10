@@ -23,10 +23,8 @@ http://192.168.123.1:23234/rtp/239.3.1.189:8000
 # http://192.168.123.1:23234/rtp/239.3.1.120:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # http://192.168.123.1:23234/rtp/239.3.1.121:8000
-#EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls69a25.m3u8
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=no
-# http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实
+http://192.168.123.1:23234/rtp/239.3.1.230:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 http://192.168.123.1:23234/rtp/239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
@@ -61,55 +59,31 @@ http://192.168.123.1:23234/rtp/239.3.1.124:8128
 http://192.168.123.1:23234/rtp/239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐[高清]
 http://192.168.123.1:23234/rtp/239.3.1.153:8136
-#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
-http://192.168.123.1:23234/rtp/239.3.1.183:8001
+# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
+# http://192.168.123.1:23234/rtp/239.3.1.183:8001
 # #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
 # http://192.168.123.1:23234/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清][非官方]
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
-# #EXTINF:-1 tvg-name="兵器科技",CCTV 兵器科技[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a573.m3u8
-# #EXTINF:-1 tvg-name="第一剧场",CCTV 第一剧场[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-# #EXTINF:-1 tvg-name="怀旧剧场",CCTV 怀旧剧场[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-# #EXTINF:-1 tvg-name="风云剧场",CCTV 风云剧场[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-# #EXTINF:-1 tvg-name="世界地理",CCTV 世界地理[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a515.m3u8
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 https://v.bjiptv.eu.org/4.php
+# http://192.168.123.1:88/4k.php?a=0219&b=457
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-# http://hdtv.haust.edu.cn/hls/hls254.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-# http://hdtv.haust.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
 http://192.168.123.1:23234/rtp/239.3.1.249:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",4K电影[超清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="该频道节目单尚无",淘电影[高清]
 http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
-# #EXTINF:-1 tvg-name="该频道节目单尚无",爱映画[高清][非官方]
-# #EXTINF:-1 tvg-name="该频道节目单尚无",大众影视[高清][非官方]
-# #EXTINF:-1 tvg-name="该频道节目单尚无",家庭影院[高清][非官方]
-#EXTINF:-1 tvg-name="该频道节目单尚无",黑莓电影[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱院线[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",动作电影[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
-# #EXTINF:-1 tvg-name="CHC高清电影",CHC高清电影[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls260.m3u8
-# #EXTINF:-1 tvg-name="CHC动作电影",CHC动作电影[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls261.m3u8
-# #EXTINF:-1 tvg-name="CHC家庭电影",CHC家庭影院[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls259.m3u8
+# #EXTINF:-1 tvg-name="该频道节目单尚无",M1905[高清][非官方]
+# https://v.bjiptv.eu.org/m1905.php?id=1905
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
@@ -128,29 +102,6 @@ http://192.168.123.1:23234/rtp/239.3.1.195:9024
 http://192.168.123.1:23234/rtp/239.3.1.212:8060
 #EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实[高清]
 http://192.168.123.1:23234/rtp/239.3.1.58:8156
-#EXTINF:-1 tvg-name="全纪实",全纪实[高清][非官方]
-# http://hdtv.haust.edu.cn/hls/hls184a639.m3u8
-http://cache.ott.fifalive.itv.cmvideo.cn:80/5000000006000040025/index.m3u8?channel-id=bestzb&Contentid=5000000006000040025&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="求索记录",求索纪录[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="求索科学",求索科学[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="求索动物",求索动物[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱探索[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱解密[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱科学[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱猎奇[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱旅行[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱美食[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=no
-#EXTINF:-1 tvg-name="该频道节目单尚无",精品记录[高清][非官方]
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
 http://192.168.123.1:23234/rtp/239.3.1.114:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",地理
@@ -243,8 +194,8 @@ http://192.168.123.1:23234/rtp/239.3.1.188:8001
 http://192.168.123.1:23234/rtp/239.3.1.163:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",通州融媒[高清]
 http://192.168.123.1:23234/rtp/239.3.1.221:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",房山电视台[高清]
-http://192.168.123.1:23234/rtp/239.3.1.96:8001
+# #EXTINF:-1 tvg-name="该频道节目单尚无",房山电视台[高清]
+# http://192.168.123.1:23234/rtp/239.3.1.96:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",密云电视台[高清]
 http://192.168.123.1:23234/rtp/239.3.1.154:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",延庆电视台
