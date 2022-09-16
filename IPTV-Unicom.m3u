@@ -69,7 +69,7 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 https://v.bjiptv.eu.org/4.php
-# http://192.168.123.1:88/4k.php?a=0219&b=457
+# http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
@@ -83,7 +83,7 @@ http://192.168.123.1:23234/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",每日影院[高清]
 http://192.168.123.1:23234/rtp/239.3.1.111:8001
 # #EXTINF:-1 tvg-name="该频道节目单尚无",M1905[高清][非官方]
-# https://v.bjiptv.eu.org/m1905.php?id=1905
+# http://192.168.123.1:88/m1905.php?id=1905
 #EXTINF:-1 tvg-name="该频道节目单尚无",星影
 http://192.168.123.1:23234/rtp/239.3.1.94:4120
 #EXTINF:-1 tvg-name="该频道节目单尚无",动作影院
