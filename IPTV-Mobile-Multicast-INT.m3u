@@ -65,7 +65,7 @@ http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://228.1.1.181:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-https://v.bjiptv.eu.org/4.php?a=0219
+https://v.bjiptv.eu.org/4.php
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 # http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
