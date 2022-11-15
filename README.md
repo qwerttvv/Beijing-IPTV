@@ -108,4 +108,10 @@
 
 ------------
 
+## 如果你压根儿不知道该如何使用以上的列表看IPTV，可以参考下面这篇文章
+
+[https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md](https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md "https://github.com/qwerttvv/Beijing-IPTV/blob/master/howto.md")
+
+------------
+
 **感谢外部引用的作者，以及过程中所有帮助过我的人**
