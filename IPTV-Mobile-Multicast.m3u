@@ -18,8 +18,8 @@ rtp://228.1.1.199:8000
 rtp://228.1.1.196:8000
 #EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 rtp://228.1.1.195:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲
-rtp://228.1.1.131:8000
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲[高清]
+rtp://228.1.1.117:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 rtp://228.1.1.111:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
