@@ -68,7 +68,7 @@ http://192.168.123.1:23234/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 http://192.168.123.1:23234/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-https://w.bjiptv.ga/4.php
+https://v.bjiptv.ga/4.php
 # http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
