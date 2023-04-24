@@ -65,9 +65,9 @@ http://gslbserv.itv.cmvideo.cn:80/5000000008000023254/index.m3u8?channel-id=best
 http://192.168.123.1:23234/rtp/228.1.1.181:8144
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[非官方]
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[非官方]
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/228.1.1.38:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
