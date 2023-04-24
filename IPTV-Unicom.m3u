@@ -70,9 +70,9 @@ http://192.168.123.1:23234/rtp/239.3.1.151:8144
 # #EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
 # http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 http://192.168.123.1:23234/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
