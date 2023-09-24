@@ -20,8 +20,10 @@ rtp://228.1.1.196:8000
 rtp://228.1.1.195:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲[高清]
 rtp://228.1.1.117:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[高清]
 rtp://228.1.1.111:8000
+# #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV 8K[高清]
+# rtp://228.1.1.217:8002
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 rtp://228.1.1.28:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
