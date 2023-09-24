@@ -19,8 +19,10 @@ http://192.168.123.1:23234/rtp/228.1.1.196:8000
 http://192.168.123.1:23234/rtp/228.1.1.195:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲[高清]
 http://192.168.123.1:23234/rtp/228.1.1.117:8000
-#EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[高清]
 http://192.168.123.1:23234/rtp/228.1.1.111:8000
+# #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV 8K[高清]
+# http://192.168.123.1:23234/rtp/228.1.1.217:8002
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
 http://192.168.123.1:23234/rtp/228.1.1.28:8008
 #EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经[高清]
@@ -120,18 +122,10 @@ http://gslbserv.itv.cmvideo.cn:80/6000000002000032052/index.m3u8?channel-id=wasu
 http://gslbserv.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索动物",求索动物[高清][非官方]
 http://gslbserv.itv.cmvideo.cn:80/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱探索[高清][非官方]
-http://gslbserv.itv.cmvideo.cn:80/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱解密[高清][非官方]
-http://gslbserv.itv.cmvideo.cn:80/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱科学[高清][非官方]
 http://gslbserv.itv.cmvideo.cn:80/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱猎奇[高清][非官方]
-http://gslbserv.itv.cmvideo.cn:80/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="该频道节目单尚无",爱旅行[高清][非官方]
 http://gslbserv.itv.cmvideo.cn:80/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="该频道节目单尚无",爱美食[高清][非官方]
-http://gslbserv.itv.cmvideo.cn:80/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="该频道节目单尚无",精品记录[高清][非官方]
 http://gslbserv.itv.cmvideo.cn:80/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
 # #EXTINF:-1 tvg-name="该频道节目单尚无",风尚生活[高清]
