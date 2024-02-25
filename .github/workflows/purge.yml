@@ -1,0 +1,23 @@
+name: purge cdn
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: purge cdn
+        run: |
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Mobile-Multicast.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Mobile.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u
+          sleep 6
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Mobile-Multicast.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Mobile.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u
+          curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u
