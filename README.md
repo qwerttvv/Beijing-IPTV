@@ -35,10 +35,10 @@
 - https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://gcore.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://fastly.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
-- https://ghp.ci/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 - https://gh-proxy.com/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-- https://ghproxy.cc/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-- https://cf.ghproxy.cc/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+- https://ghproxy.cfd/https:/raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+- https://github.moeyy.xyz/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+- https://raw.kkgithub.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 
 #### 节目列表来源
 1. 电视盒子抓包官方列表
@@ -52,7 +52,7 @@ M3U文件已经内置EPG节目单列表，支持x-tvg-url标签的播放软件�
 - [http://epg.51zmt.top:8000/e.xml.gz](http://epg.51zmt.top:8000/e.xml.gz "http://epg.51zmt.top:8000/e.xml.gz")
 
 #### 其他说明
-1. 推荐使用单播列表，你可以更改udpxy、msd等组播转单播服务地址为192.168.123.1:23234
+1. 推荐使用单播列表，你可以更改udpxy、msd_lite（推荐）等组播转单播服务地址为192.168.123.1:23234
 2. 单播列表增加非北京联通、北京移动IPTV来源的高清、超高清频道，这些频道会单独标记【非官方】，非官方频道需要连接互联网以及可能会用到IPv6网络，完整无障碍观看请联网并且在开启IPv6支持）
 3. 对应运营商的组播列表在该运营商网络下通用，无需连接互联网即可在支持组播的环境中任意播放
 4. 那些原本单独收费的频道，全部免费解锁直接看
