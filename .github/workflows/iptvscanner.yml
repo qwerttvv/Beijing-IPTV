@@ -1,0 +1,41 @@
+name: iptvscanner
+
+on:
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: System update
+      run: |
+        sudo -E apt-mark hold grub-efi-amd64-signed
+        sudo -E apt -y update --allow-unauthenticated
+        sudo -E apt -y full-upgrade
+        sudo -E systemctl daemon-reload
+        sudo apt-get autoremove -y --purge
+        sudo apt-get clean
+
+    - name: Set Timezone
+      run: |
+        sudo timedatectl set-timezone Asia/Shanghai
+
+    - uses: actions/checkout@main
+
+    - name: Build and Compress
+      run: |
+        go mod init iptvscanner
+        go get -u ./...
+        go mod tidy
+        go mod download
+        CGO_ENABLED=0 GOOS="windows" GOARCH="amd64" go build -ldflags "-s -w" -o iptvscanner.exe iptvscanner.go
+        zip -j -9 iptvscanner_win64_qwerttvv.zip iptvscanner.exe
+
+    - name: push
+      uses: EndBug/add-and-commit@main
+      with:
+        default_author: github_actions
+        message: "iptvscanner update by qwerttvv"
+        add: "iptvscanner_win64_qwerttvv.zip"
