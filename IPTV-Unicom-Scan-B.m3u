@@ -1,4 +1,4 @@
-#EXTM3U name="bj-unicom-iptv"
+#EXTM3U name="Beijing-IPTV"
 #EXTINF:-1,239.2.1.1:8000
 rtp://239.2.1.1:8000
 #EXTINF:-1,239.2.1.2:8004
