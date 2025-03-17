@@ -23,12 +23,12 @@ rtp://239.3.1.189:8000
 # rtp://239.3.1.120:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
 # rtp://239.3.1.121:8000
-#EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[超清HDR]
-rtp://239.3.1.22:8001
+# #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[超清HDR]
+# rtp://239.3.1.22:8001
 # #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[超清]
 # rtp://239.3.1.121:8000
-# #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[高清]
-# rtp://239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[高清]
+rtp://239.3.1.243:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[超清]
 rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
