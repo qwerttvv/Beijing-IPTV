@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
-#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
-http://192.168.123.1:23234/rtp/228.1.1.115:8000
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[超清HDR]
+http://192.168.123.1:23234/rtp/228.1.1.235:8002
+# #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[高清]
+# http://192.168.123.1:23234/rtp/228.1.1.115:8000
+# #EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视[超清]
+# http://192.168.123.1:23234/rtp/228.1.1.234:8002
 #EXTINF:-1 tvg-name="BTV新闻",BRTV新闻[高清]
 http://192.168.123.1:23234/rtp/228.1.1.189:8000
 #EXTINF:-1 tvg-name="BTV影视",BRTV影视[高清]
@@ -17,10 +21,6 @@ http://192.168.123.1:23234/rtp/228.1.1.198:8000
 http://192.168.123.1:23234/rtp/228.1.1.196:8000
 #EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 http://192.168.123.1:23234/rtp/228.1.1.195:8000
-# #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[超清HDR]
-# http://192.168.123.1:23234/rtp/228.1.1.234:8002
-# #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[超清]
-# http://192.168.123.1:23234/rtp/228.1.1.101:8000
 #EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲[高清]
 http://192.168.123.1:23234/rtp/228.1.1.117:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV国际频道[高清]
