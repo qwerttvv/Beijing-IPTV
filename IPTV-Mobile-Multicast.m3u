@@ -192,8 +192,6 @@ rtp://228.1.1.53:8140
 rtp://228.1.1.60:8184
 #EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
 rtp://228.1.1.59:8176
-#EXTINF:-1 tvg-name="中国交通频道",中国交通[高清]
-rtp://228.1.1.222:8002
 #EXTINF:-1 tvg-name="该频道节目单尚无",朝阳融媒[高清]
 rtp://228.1.1.140:8001
 # #EXTINF:-1 tvg-name="该频道节目单尚无",通州融媒[高清]
@@ -204,18 +202,8 @@ rtp://228.1.1.139:8001
 rtp://228.1.1.219:8002
 # #EXTINF:-1 tvg-name="该频道节目单尚无",法治天地[高清]
 # rtp://228.1.1.230:8002
-#EXTINF:-1 tvg-name="CGTN",CGTN 新闻[高清]
-rtp://228.1.1.204:4220
-#EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录[高清]
-rtp://228.1.1.205:4220
-#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 西班牙语[高清]
-rtp://228.1.1.206:4220
-#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 法语[高清]
-rtp://228.1.1.207:4220
-#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 阿拉伯语[高清]
-rtp://228.1.1.208:4220
-#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 俄语[高清]
-rtp://228.1.1.209:4220
+#EXTINF:-1 tvg-name="中国交通频道",中国交通[高清]
+rtp://228.1.1.222:8002
 #EXTINF:-1 tvg-name="IPTV少儿动画",少儿动画[高清]
 rtp://228.1.1.83:9000
 #EXTINF:-1 tvg-name="该频道节目单尚无",动画[高清]
@@ -234,6 +222,18 @@ rtp://228.1.1.171:4120
 rtp://228.1.1.86:9012
 #EXTINF:-1 tvg-name="该频道节目单尚无",高网[高清]
 rtp://228.1.1.169:4120
+#EXTINF:-1 tvg-name="CGTN",CGTN 新闻[高清]
+rtp://228.1.1.204:4220
+#EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录[高清]
+rtp://228.1.1.205:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 西班牙语[高清]
+rtp://228.1.1.206:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 法语[高清]
+rtp://228.1.1.207:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 阿拉伯语[高清]
+rtp://228.1.1.208:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 俄语[高清]
+rtp://228.1.1.209:4220
 #EXTINF:-1 tvg-name="该频道节目单尚无",睛彩竞技[高清]
 rtp://228.1.1.223:8002
 #EXTINF:-1 tvg-name="该频道节目单尚无",睛彩篮球[高清]
