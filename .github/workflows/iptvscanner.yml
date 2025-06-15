@@ -24,6 +24,12 @@ jobs:
 
     - uses: actions/checkout@main
 
+    - name: Install latest Go
+      uses: actions/setup-go@main
+      with:
+        go-version: 'stable'
+        check-latest: true
+
     - name: Build and Compress
       run: |
         go mod init iptvscanner
