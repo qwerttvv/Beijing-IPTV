@@ -35,9 +35,8 @@
 - https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://gcore.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://fastly.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
+- https://gh.cooluc.com/raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 - https://gh-proxy.com/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-- https://ghproxy.cfd/https:/raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-- https://github.moeyy.xyz/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 - https://raw.kkgithub.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 
 #### 节目列表来源
