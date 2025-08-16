@@ -42,7 +42,8 @@
 #### 节目列表来源
 1. 电视盒子抓包官方列表
 2. 组播地址[扫描](https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/iptvscanner.7z "扫描")
-3. 交叉[参考](https://github.com/islercn/BeiJing-Unicom-IPTV-List "参考")
+3. 交叉[参考](https://github.com/islercn/BeiJing-Unicom-IPTV-List/commits/master/ "参考")
+4. 交叉[参考2](https://github.com/zzzz0317/beijing-unicom-iptv-playlist/commits/main/iptv-multicast.m3u "参考2")
 
 #### EPG节目单
 M3U文件已经内置EPG节目单列表，支持x-tvg-url标签的播放软件无需手动加载EPG文件
