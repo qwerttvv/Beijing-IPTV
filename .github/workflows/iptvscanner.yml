@@ -43,7 +43,7 @@ jobs:
         go get -u ./...
         go mod tidy
         go mod download
-        CGO_ENABLED=0 GOOS="windows" GOARCH="amd64" GOAMD64=v2 go build -trimpath -buildvcs=false -ldflags "-s -w -buildid=" -o iptvscanner.exe iptvscanner.go
+        CGO_ENABLED=0 GOOS="windows" GOARCH="amd64" GOAMD64=v2 go build -trimpath -buildvcs=false -gcflags="all=-l=4" -ldflags "-s -w -buildid=" -o iptvscanner.exe iptvscanner.go
         upx --lzma --best iptvscanner.exe
         zip -j -9 iptvscanner_win64_qwerttvv.zip iptvscanner.exe
 
