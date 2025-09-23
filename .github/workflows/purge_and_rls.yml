@@ -1,4 +1,4 @@
-name: purge cdn
+name: purge cdn & release
 
 on:
   push:
@@ -21,3 +21,19 @@ jobs:
           curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Mobile.m3u
           curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom-Multicast.m3u
           curl -sSL https://purge.jsdelivr.net/gh/qwerttvv/Beijing-IPTV/IPTV-Unicom.m3u
+
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Release
+        uses: softprops/action-gh-release@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: iptv
+          files: |
+            IPTV-Mobile-Multicast.m3u
+            IPTV-Mobile.m3u
+            IPTV-Unicom-Multicast.m3u
+            IPTV-Unicom.m3u
+        continue-on-error: true
