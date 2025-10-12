@@ -39,6 +39,7 @@
 - https://gh.cooluc.com/raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 - https://gh-proxy.com/https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 - https://raw.kkgithub.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+- https://xget.xi-xu.me/gh/qwerttvv/Beijing-IPTV/releases/download/iptv/IPTV-Unicom.m3u
 
 #### 节目列表来源
 1. 电视盒子抓包官方列表
