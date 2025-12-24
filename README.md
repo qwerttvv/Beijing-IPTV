@@ -32,7 +32,6 @@
 - https://bjiptv.gq/IPTV-Unicom.m3u
 - https://qwerttvv.github.io/Beijing-IPTV/IPTV-Unicom.m3u
 - https://beijing-iptv.pages.dev/IPTV-Unicom.m3u
-- https://beijing-iptv.vercel.app/IPTV-Unicom.m3u
 - https://cdn.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://gcore.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
 - https://fastly.jsdelivr.net/gh/qwerttvv/Beijing-IPTV@master/IPTV-Unicom.m3u
